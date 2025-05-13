@@ -16,7 +16,7 @@ Esse repositório tem como objetivo, criar um board com um campo de pesquisa par
 <br><br>
 
 ## 🎨 Exemplo de como ficou o projeto
-![Exemplo da busca de câmbio]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FycTdiaW16OTJwN2VjMHVxdGkzYjM0cHF2bmtncDdzazg1eDIxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V1RVYAyMrCleeyI2vA/giphy.gif])
+![Exemplo da busca de câmbio](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9kZWt6NGNyaWZkdXpwOHR5b2I3OWZ3cmFzbW9hbGR4ajg1eGozeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9aRGFvP4m5P0YFHXMc/giphy.gif)
 <br><br>
 
 ## 🏆 Contribuindo
